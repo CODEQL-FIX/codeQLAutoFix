@@ -1,12 +1,3 @@
-/*
-    Copyright (c) 1996-2016 Ariba, Inc.
-    All rights reserved. Patents pending.
-
-    $Id$
-
-    Responsible: rwells
-*/
-
 package ariba.tool.ezconfig;
 
 import java.sql.*;
